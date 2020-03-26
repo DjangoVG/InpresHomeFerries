@@ -1,0 +1,4 @@
+[21/12/19 12:49] : Client /127.0.0.1:50020 Demande de connexion
+[21/12/19 12:49] : Client /127.0.0.1:50020 connecté !
+[21/12/19 12:49] : ************ Serveur en attente ************
+[21/12/19 12:49] : Client /127.0.0.1:50020 Demande de connexion
